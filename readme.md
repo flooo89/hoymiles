@@ -10,6 +10,19 @@ Bevor du das Skript ausführst, installiere die benötigten Python-Pakete mit:
 pip install mysql-connector-python hoymiles-wifi asyncio
 ```
 
+## 🚀 Voraussetzungen
+
+Kurz und Knapp, so geht es los:
+
+1. Pakete installieren
+```sh
+pip3 install mysql-connector-python hoymiles-wifi asyncio
+```
+2. SQL Datei herunterladen und importieren
+3. Zugangsdaten in app.py einfügen
+4. python3 app.py ausführen - es sollte laufen
+
+
 Falls `hoymiles-wifi` nicht verfügbar ist, stelle sicher, dass du es aus einer passenden Quelle beziehst.
 
 ## 📂 Verzeichnisstruktur
